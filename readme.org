@@ -1,7 +1,11 @@
 * Readme
-  This repository is a compilation of all configuration files.
+** Setup
+   This repository is a compilation of all configuration files.
 
-  To clone run:
-  #+begin_example
-  git clone --recurse-submodules git@gitlab.com:janmasrovira/all-configs.git ~/dotfiles
-  #+end_example
+   To clone run:
+   #+begin_example
+   git clone --recurse-submodules git@gitlab.com:janmasrovira/all-configs.git ~/dotfiles
+   #+end_example
+** Ignore files
+   Ignore files follow Perl regexp syntax:
+   [[https://www.geeksforgeeks.org/perl-regex-cheat-sheet/]].
