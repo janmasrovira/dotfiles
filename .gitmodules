@@ -1,3 +1,6 @@
 [submodule "latexmk"]
 	path = latexmk
 	url = git@gitlab.com:janmasrovira/latexmk-config.git
+[submodule "rofi"]
+	path = rofi
+	url = git@gitlab.com:janmasrovira/rofi-config.git
