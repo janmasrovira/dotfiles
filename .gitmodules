@@ -4,3 +4,6 @@
 [submodule "rofi"]
 	path = rofi
 	url = git@gitlab.com:janmasrovira/rofi-config.git
+[submodule "tmux"]
+	path = tmux
+	url = git@gitlab.com:janmasrovira/tmux-config.git
