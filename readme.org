@@ -9,3 +9,8 @@
 ** Ignore files
    Ignore files follow Perl regexp syntax:
    [[https://www.geeksforgeeks.org/perl-regex-cheat-sheet/]].
+** Pending
+   The following configurations are pending to be imported and adapted:
+   - Xmonad
+   - Emacs
+   - Fish

@@ -7,3 +7,6 @@
 [submodule "tmux"]
 	path = tmux
 	url = git@gitlab.com:janmasrovira/tmux-config.git
+[submodule "alacritty"]
+	path = alacritty
+	url = git@gitlab.com:janmasrovira/alacritty-config.git
