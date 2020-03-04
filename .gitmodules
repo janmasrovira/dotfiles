@@ -10,3 +10,6 @@
 [submodule "alacritty"]
 	path = alacritty
 	url = git@gitlab.com:janmasrovira/alacritty-config.git
+[submodule "zathura"]
+	path = zathura
+	url = git@gitlab.com:janmasrovira/zathura-config.git
