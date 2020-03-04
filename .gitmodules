@@ -1,0 +1,3 @@
+[submodule "latexmk"]
+	path = latexmk
+	url = git@gitlab.com:janmasrovira/latexmk-config.git
