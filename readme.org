@@ -6,6 +6,12 @@
    #+begin_example
    git clone --recurse-submodules git@gitlab.com:janmasrovira/all-configs.git ~/dotfiles
    #+end_example
+
+   Then for each package run stow individually, eg for tmux we would run
+   #+begin_example
+   cd dotfiles
+   stow tmux
+   #+end_example
 ** Ignore files
    Ignore files follow Perl regexp syntax:
    [[https://www.geeksforgeeks.org/perl-regex-cheat-sheet/]].
