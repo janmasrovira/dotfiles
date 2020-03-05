@@ -16,3 +16,6 @@
 [submodule "fish"]
 	path = fish
 	url = git@gitlab.com:janmasrovira/fish-config.git
+[submodule "xmonad"]
+	path = xmonad
+	url = git@gitlab.com:janmasrovira/xmonad-config.git
