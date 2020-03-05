@@ -13,3 +13,6 @@
 [submodule "zathura"]
 	path = zathura
 	url = git@gitlab.com:janmasrovira/zathura-config.git
+[submodule "fish"]
+	path = fish
+	url = git@gitlab.com:janmasrovira/fish-config.git

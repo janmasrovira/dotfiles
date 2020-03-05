@@ -19,4 +19,3 @@
    The following configurations are pending to be imported and adapted:
    - Xmonad
    - Emacs
-   - Fish
