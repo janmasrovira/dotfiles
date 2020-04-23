@@ -22,3 +22,6 @@
 [submodule "emacs"]
 	path = emacs
 	url = git@gitlab.com:janmasrovira/emacs-config.git
+[submodule "agda"]
+	path = agda
+	url = git@gitlab.com:janmasrovira/agda-config.git
