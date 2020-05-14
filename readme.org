@@ -7,7 +7,8 @@
    git clone --recurse-submodules git@gitlab.com:janmasrovira/all-configs.git ~/dotfiles
    #+end_example
 
-   Then for each package run stow individually, eg for tmux we would run
+   Then for each package read the corresponding readme. In general it suffices
+   to run stow individually, eg for tmux we would run
    #+begin_example
    cd dotfiles
    stow tmux
