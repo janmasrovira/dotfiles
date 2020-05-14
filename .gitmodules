@@ -28,3 +28,6 @@
 [submodule "fonts"]
 	path = fonts
 	url = git@gitlab.com:janmasrovira/fonts.git
+[submodule "polybar"]
+	path = polybar
+	url = git@gitlab.com:janmasrovira/polybar-config.git
