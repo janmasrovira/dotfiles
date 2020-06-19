@@ -31,3 +31,9 @@
 [submodule "polybar"]
 	path = polybar
 	url = git@gitlab.com:janmasrovira/polybar-config.git
+[submodule "mpv"]
+	path = mpv
+	url = git@gitlab.com:janmasrovira/mpv-config.git
+[submodule "starship"]
+	path = starship
+	url = git@gitlab.com:janmasrovira/starship-config.git
