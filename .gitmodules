@@ -43,3 +43,6 @@
 [submodule "isync"]
 	path = isync
 	url = git@gitlab.com:janmasrovira/isync-config.git
+[submodule "git"]
+	path = git
+	url = git@gitlab.com:janmasrovira/git-config.git
