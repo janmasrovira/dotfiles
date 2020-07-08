@@ -46,3 +46,6 @@
 [submodule "git"]
 	path = git
 	url = git@gitlab.com:janmasrovira/git-config.git
+[submodule "aspell"]
+	path = aspell
+	url = git@gitlab.com:janmasrovira/aspell-config.git
