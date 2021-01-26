@@ -52,3 +52,6 @@
 [submodule "stack"]
 	path = stack
 	url = git@gitlab.com:janmasrovira/stack-config.git
+[submodule "paru"]
+	path = paru
+	url = git@gitlab.com:janmasrovira/paru-config.git
