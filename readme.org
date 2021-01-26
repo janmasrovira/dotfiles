@@ -13,6 +13,6 @@
    cd dotfiles
    stow tmux
    #+end_example
-** Ignore files
-   Ignore files follow Perl regexp syntax:
+** Stow ignore files
+   Stow ignore files follow Perl regexp syntax:
    [[https://www.geeksforgeeks.org/perl-regex-cheat-sheet/]].
