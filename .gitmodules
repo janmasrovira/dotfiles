@@ -55,3 +55,6 @@
 [submodule "paru"]
 	path = paru
 	url = git@gitlab.com:janmasrovira/paru-config.git
+[submodule "flameshot"]
+	path = flameshot
+	url = git@gitlab.com:janmasrovira/flameshot-config.git
