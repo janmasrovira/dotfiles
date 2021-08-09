@@ -7,6 +7,12 @@
    git clone --recurse-submodules git@gitlab.com:janmasrovira/dotfiles.git ~/dotfiles
    #+end_example
 
+   If you only want to clone specific submodules then:
+   #+begin_example
+   git clone git@gitlab.com:janmasrovira/dotfiles.git ~/dotfiles
+   git submodule update --init paru git starship ...
+   #+end_example
+
    Then for each package read the corresponding readme. In general it suffices
    to run stow individually, eg for tmux we would run
    #+begin_example
