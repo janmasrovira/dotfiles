@@ -61,3 +61,12 @@
 [submodule "fstab"]
 	path = fstab
 	url = git@gitlab.com:janmasrovira/fstab.git
+[submodule "stow"]
+	path = stow
+	url = git@gitlab.com:janmasrovira/stow-config.git
+[submodule "doom"]
+	path = doom
+	url = git@gitlab.com:janmasrovira/emacs-doom-config.git
+[submodule "chemacs"]
+	path = chemacs
+	url = git@gitlab.com:janmasrovira/chemacs-config.git
