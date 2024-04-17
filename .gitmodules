@@ -73,3 +73,6 @@
 [submodule "atuin"]
 	path = atuin
 	url = git@gitlab.com:janmasrovira/atuin-config.git
+[submodule "easyeffects"]
+	path = easyeffects
+	url = git@gitlab.com:janmasrovira/easyeffects-config.git
