@@ -76,3 +76,6 @@
 [submodule "easyeffects"]
 	path = easyeffects
 	url = git@gitlab.com:janmasrovira/easyeffects-config.git
+[submodule "zellij"]
+	path = zellij
+	url = git@github.com:janmasrovira/zellij-config.git
