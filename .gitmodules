@@ -1,75 +1,75 @@
 [submodule "latexmk"]
 	path = latexmk
-	url = git@gitlab.com:janmasrovira/latexmk-config.git
+	url = git@github.com:janmasrovira/latexmk-config.git
 [submodule "rofi"]
 	path = rofi
-	url = git@gitlab.com:janmasrovira/rofi-config.git
+	url = git@github.com:janmasrovira/rofi-config.git
 [submodule "tmux"]
 	path = tmux
-	url = git@gitlab.com:janmasrovira/tmux-config.git
+	url = git@github.com:janmasrovira/tmux-config.git
 [submodule "alacritty"]
 	path = alacritty
 	url = git@github.com:janmasrovira/alacritty-config.git
 [submodule "zathura"]
 	path = zathura
-	url = git@gitlab.com:janmasrovira/zathura-config.git
+	url = git@github.com:janmasrovira/zathura-config.git
 [submodule "fish"]
 	path = fish
-	url = git@gitlab.com:janmasrovira/fish-config.git
+	url = git@github.com:janmasrovira/fish-config.git
 [submodule "xmonad"]
 	path = xmonad
-	url = git@gitlab.com:janmasrovira/xmonad-config.git
+	url = git@github.com:janmasrovira/xmonad-config.git
 [submodule "emacs"]
 	path = emacs
-	url = git@gitlab.com:janmasrovira/emacs-config.git
+	url = git@github.com:janmasrovira/emacs-config.git
 [submodule "agda"]
 	path = agda
-	url = git@gitlab.com:janmasrovira/agda-config.git
+	url = git@github.com:janmasrovira/agda-config.git
 [submodule "fonts"]
 	path = fonts
-	url = git@gitlab.com:janmasrovira/fonts.git
+	url = git@github.com:janmasrovira/fonts.git
 [submodule "polybar"]
 	path = polybar
-	url = git@gitlab.com:janmasrovira/polybar-config.git
+	url = git@github.com:janmasrovira/polybar-config.git
 [submodule "mpv"]
 	path = mpv
-	url = git@gitlab.com:janmasrovira/mpv-config.git
+	url = git@github.com:janmasrovira/mpv-config.git
 [submodule "starship"]
 	path = starship
-	url = git@gitlab.com:janmasrovira/starship-config.git
+	url = git@github.com:janmasrovira/starship-config.git
 [submodule "bat"]
 	path = bat
-	url = git@gitlab.com:janmasrovira/bat-config.git
+	url = git@github.com:janmasrovira/bat-config.git
 [submodule "git"]
 	path = git
-	url = git@gitlab.com:janmasrovira/git-config.git
+	url = git@github.com:janmasrovira/git-config.git
 [submodule "aspell"]
 	path = aspell
-	url = git@gitlab.com:janmasrovira/aspell-config.git
+	url = git@github.com:janmasrovira/aspell-config.git
 [submodule "stack"]
 	path = stack
-	url = git@gitlab.com:janmasrovira/stack-config.git
+	url = git@github.com:janmasrovira/stack-config.git
 [submodule "paru"]
 	path = paru
-	url = git@gitlab.com:janmasrovira/paru-config.git
+	url = git@github.com:janmasrovira/paru-config.git
 [submodule "flameshot"]
 	path = flameshot
-	url = git@gitlab.com:janmasrovira/flameshot-config.git
+	url = git@github.com:janmasrovira/flameshot-config.git
 [submodule "stow"]
 	path = stow
-	url = git@gitlab.com:janmasrovira/stow-config.git
+	url = git@github.com:janmasrovira/stow-config.git
 [submodule "doom"]
 	path = doom
-	url = git@gitlab.com:janmasrovira/emacs-doom-config.git
+	url = git@github.com:janmasrovira/emacs-doom-config.git
 [submodule "chemacs"]
 	path = chemacs
-	url = git@gitlab.com:janmasrovira/chemacs-config.git
+	url = git@github.com:janmasrovira/chemacs-config.git
 [submodule "atuin"]
 	path = atuin
-	url = git@gitlab.com:janmasrovira/atuin-config.git
+	url = git@github.com:janmasrovira/atuin-config.git
 [submodule "easyeffects"]
 	path = easyeffects
-	url = git@gitlab.com:janmasrovira/easyeffects-config.git
+	url = git@github.com:janmasrovira/easyeffects-config.git
 [submodule "zellij"]
 	path = zellij
 	url = git@github.com:janmasrovira/zellij-config.git
