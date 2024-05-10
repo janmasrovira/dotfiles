@@ -1,25 +1,21 @@
 * Readme
 ** Setup
-   This repository is a compilation of all configuration files.
+This repository is a compilation of all my configuration files.
 
-   To clone run:
-   #+begin_example
-   git clone --recurse-submodules git@gitlab.com:janmasrovira/dotfiles.git ~/dotfiles
-   #+end_example
+To clone run:
+#+begin_example
+git clone --recurse-submodules git@github.com:janmasrovira/dotfiles.git ~/dotfiles
+#+end_example
 
-   If you only want to clone specific submodules then:
-   #+begin_example
-   git clone git@gitlab.com:janmasrovira/dotfiles.git ~/dotfiles
-   git submodule update --init paru git starship ...
-   #+end_example
+If you only want to clone specific submodules then do:
+#+begin_example
+git clone git@github.com:janmasrovira/dotfiles.git ~/dotfiles
+git submodule update --init paru git starship ...
+#+end_example
 
-   Then for each package read the corresponding readme. In general it suffices
-   to run stow individually, eg for tmux we would run
-   #+begin_example
-   cd dotfiles
-   stow tmux
-   #+end_example
-
-** Stow ignore files
-   Stow ignore files follow Perl regexp syntax:
-   [[https://www.geeksforgeeks.org/perl-regex-cheat-sheet/]].
+Then, for each package read the corresponding readme. In general it suffices
+to run stow individually. E.g. for =tmux= we would run:
+#+begin_example
+cd ~/dotfiles
+stow tmux
+#+end_example
