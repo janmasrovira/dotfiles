@@ -58,9 +58,6 @@
 [submodule "flameshot"]
 	path = flameshot
 	url = git@gitlab.com:janmasrovira/flameshot-config.git
-[submodule "fstab"]
-	path = fstab
-	url = git@gitlab.com:janmasrovira/fstab.git
 [submodule "stow"]
 	path = stow
 	url = git@gitlab.com:janmasrovira/stow-config.git
