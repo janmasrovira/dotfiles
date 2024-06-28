@@ -73,3 +73,6 @@
 [submodule "zellij"]
 	path = zellij
 	url = git@github.com:janmasrovira/zellij-config.git
+[submodule "qobuz-dl"]
+	path = qobuz-dl
+	url = git@github.com:janmasrovira/qobuz-dl-config.git
