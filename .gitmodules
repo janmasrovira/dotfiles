@@ -76,3 +76,6 @@
 [submodule "qobuz-dl"]
 	path = qobuz-dl
 	url = git@github.com:janmasrovira/qobuz-dl-config.git
+[submodule "btop"]
+	path = btop
+	url = git@github.com:janmasrovira/btop-config.git
