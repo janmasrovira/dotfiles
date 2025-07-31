@@ -79,3 +79,6 @@
 [submodule "btop"]
 	path = btop
 	url = git@github.com:janmasrovira/btop-config.git
+[submodule "mpd"]
+	path = mpd
+	url = git@github.com:janmasrovira/mpd-config.git
