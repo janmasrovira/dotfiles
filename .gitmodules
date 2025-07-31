@@ -82,3 +82,6 @@
 [submodule "mpd"]
 	path = mpd
 	url = git@github.com:janmasrovira/mpd-config.git
+[submodule "ncmpcpp"]
+	path = ncmpcpp
+	url = git@github.com:janmasrovira/ncmpcpp-config.git
