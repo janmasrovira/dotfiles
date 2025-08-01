@@ -85,3 +85,6 @@
 [submodule "ncmpcpp"]
 	path = ncmpcpp
 	url = git@github.com:janmasrovira/ncmpcpp-config.git
+[submodule "rmpc"]
+	path = rmpc
+	url = git@github.com:janmasrovira/rmpc-config.git
