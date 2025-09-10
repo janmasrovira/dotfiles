@@ -88,3 +88,6 @@
 [submodule "rmpc"]
 	path = rmpc
 	url = git@github.com:janmasrovira/rmpc-config.git
+[submodule "beets"]
+	path = beets
+	url = git@github.com:janmasrovira/beets-config.git
