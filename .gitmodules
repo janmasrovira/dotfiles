@@ -91,3 +91,6 @@
 [submodule "beets"]
 	path = beets
 	url = git@github.com:janmasrovira/beets-config.git
+[submodule "tidal-dl-ng"]
+	path = tidal-dl-ng
+	url = git@github.com:janmasrovira/tidal-dl-ng-config.git
